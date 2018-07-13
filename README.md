@@ -1,1 +1,1 @@
-Please use [wiki/wiki](https://github.com/ethereum/wiki/wiki), since that is freely maintainable.
+https://github.com/ethereum/wiki/wiki/%5BKorean%5D-White-Paper
